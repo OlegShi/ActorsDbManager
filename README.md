@@ -66,4 +66,18 @@ curl -X 'GET' \
   {"Id":10,"Name":"Marlon Brando","Details":"Marlon Brando is widely considered the greatest movie actor of all time, rivaled only by the more theatrically oriented Laurence Olivier in terms of esteem. Unlike Olivier, who preferred the stage to the screen, Brando concentrated his talents on movies after bidding the Broadway stage adieu in ...","Rank":10}
 
 
+## Additional Considerations
+### Authentication and Authorization
+implement secure authentication and authorization mechanisms to control access to endpoints and manage user permissions.
 
+### Logger
+Implement logging functionality to track and monitor API activities, errors, and important events for debugging and analysis purposes.
+
+### HTTPS
+Enforce HTTPS for secure communication between clients and the API to protect data privacy and integrity.
+
+### Augment the Swagger
+Enhance Swagger documentation to provide comprehensive details about API endpoints, request/response models, and examples.
+
+### Testing
+Implement thorough testing methodologies including unit tests, integration tests, and possibly end-to-end tests to ensure the API functions as expected and handles edge cases properly.
