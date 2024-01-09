@@ -65,6 +65,7 @@ curl -X 'GET' \
 #### Get Actor by ID Response:  
   {"Id":10,"Name":"Marlon Brando","Details":"Marlon Brando is widely considered the greatest movie actor of all time, rivaled only by the more theatrically oriented Laurence Olivier in terms of esteem. Unlike Olivier, who preferred the stage to the screen, Brando concentrated his talents on movies after bidding the Broadway stage adieu in ...","Rank":10}
 
+### swagger.json attached
 
 ## Additional Considerations
 ### Authentication and Authorization
